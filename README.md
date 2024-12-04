@@ -67,11 +67,11 @@ flowchart TD
 
 ### See
 
-- [curl](curl.md)
-- [src_server.go](src_server.go)
-- [src_listener.go](src_listener.go)
-- [src_conn.go](src_conn.go)
-- [src_conn-looks-like-http.go](src_conn-looks-like-http.go)
+- [curl](https://github.com/bddjr/hlfhr/blob/main/curl.md)
+- [src_server.go](https://github.com/bddjr/hlfhr/blob/main/src_server.go)
+- [src_listener.go](https://github.com/bddjr/hlfhr/blob/main/src_listener.go)
+- [src_conn.go](https://github.com/bddjr/hlfhr/blob/main/src_conn.go)
+- [src_conn-looks-like-http.go](https://github.com/bddjr/hlfhr/blob/main/src_conn-looks-like-http.go)
 
 ---
 
@@ -297,4 +297,4 @@ https://github.com/golang/go/issues/66501
 
 ## License
 
-[BSD-3-clause license](LICENSE.txt)
+[BSD-3-clause license](https://github.com/bddjr/hlfhr/blob/main/LICENSE.txt)
